@@ -1,3 +1,6 @@
 *.vsidx
 *.log
+.vs/
+.vs/*
  MasterBlogger/.vs/*
+ MasterBlogger/.vs
