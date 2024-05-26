@@ -1,0 +1,15 @@
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Domain.deps.json
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Domain.dll
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Domain.pdb
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.AssemblyInfoInputs.cache
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.AssemblyInfo.cs
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.csproj.CoreCompileInputs.cache
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.dll
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\obj\Debug\net8.0\refint\MB.Domain.dll
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.pdb
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\obj\Debug\net8.0\ref\MB.Domain.dll
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Application.Contacts.dll
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Application.Contacts.pdb
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.csproj.AssemblyReference.cache
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.csproj.Up2Date

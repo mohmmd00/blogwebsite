@@ -1,0 +1,50 @@
+﻿@using MB.Application.Contacts.ArticleCategory;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+    https://localhost:44341/administration/ArticleCategoryList
+*@
+@{
+    Layout = "_AdministrationLayout";
+}
+@model List<ArticleCategoryViewModel>;
+<div class="d-flex justify-content-between my-3">
+    <h4>List of ArticleCategories</h4>
+    <a asp-controller="Administration" asp-action="CreateNewArticleCategory" class="btn btn-success">Create new ArticleCategory</a>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Title</th>
+            <th scope="col">Creation Date</th>
+            <th scope="col">Is Deleted</th>
+            <th scope="col">Operation</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ArticleCategory in Model)
+        {
+            <tr>
+                <td>@ArticleCategory.Id</td>
+                <td>@ArticleCategory.Title</td>
+                <td>@ArticleCategory.CreationDate</td>
+                <td>@ArticleCategory.IsDeleted</td>
+                <td>
+
+                    <a asp-action="EditArticleCategory" class="btn btn-warning">
+                        
+                        
+                        RenameArticleCategory@* @{TempData["ACI"] = (long)ArticleCategory.Id;} *@
+
+
+                    </a>
+
+                </td>
+            </tr>
+        }
+
+
+
+    </tbody>
+</table>

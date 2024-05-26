@@ -1,0 +1,20 @@
+﻿@using MB.Application.Contacts.ArticleCategory;
+@{
+    Layout = "_AdministrationLayout";
+    Model.Id = (long)TempData["ACI"];
+
+}
+
+@model RenameArticleCategory
+
+
+<h1>Rename ArticleCategory</h1>
+<form method="get">
+    <div class="mb-3">
+        <label for="id" class="form-label">id</label>
+        <input asp-for="@Model.Id" type="text" class="form-control" name="title" placeholder="">
+        <label for="title" class="form-label">Title</label>
+        <input asp-for="@Model.Title" type="text" class="form-control" name="title" placeholder="">
+    </div>
+    <button asp-action="FuncEditedArticleCategory" type="submit" class="btn btn-primary">Submit</button>
+</form>

@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ServiceHost</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ServiceHost.styles.css" asp-append-version="true" />
+</head>
+<body>
+
+<header class="container-fluid d-flex flex-wrap justify-content-between align-items-center py-3 bg-dark text-white">
+    <div class="container">
+        <h4>Administration Panel</h4>
+    </div>
+    <div class="d-flex">
+        <a href="#" class="btn btn-outline-light me-2">Logout</a>
+        <a href="#" class="btn btn-light">Settings</a>
+    </div>
+</header>
+
+
+<main class="container mt-5">
+    <div class="row">
+        <nav class="col-md-3 col-sm-4 p-3 bg-light border-end d-flex flex-column">
+            <h2 class="text-center">Navigation</h2>
+            <ul class="nav flex-column">
+                <li class="nav-item">
+                    <a class="nav-link active" href="#">Users</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Content</a>
+                </li>
+                <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Administration" asp-action="ArticleCategoryList">ArticleCategoryList</a>
+                </li>
+            </ul>
+        </nav>
+
+        <section class="col-md-9 col-sm-8 p-3">
+            <div class="row">
+                    @RenderBody()
+            </div>
+        </section>
+    </div>
+</main>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\bin\Debug\net8.0\MB.Application.deps.json
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\bin\Debug\net8.0\MB.Application.dll
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\bin\Debug\net8.0\MB.Application.pdb
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\bin\Debug\net8.0\MB.Application.Contacts.dll
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\bin\Debug\net8.0\MB.Domain.dll
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\bin\Debug\net8.0\MB.Application.Contacts.pdb
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\bin\Debug\net8.0\MB.Domain.pdb
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Application.csproj.AssemblyReference.cache
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Application.AssemblyInfoInputs.cache
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Application.AssemblyInfo.cs
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Application.csproj.CoreCompileInputs.cache
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Appli.569D401C.Up2Date
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Application.dll
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\obj\Debug\net8.0\refint\MB.Application.dll
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\obj\Debug\net8.0\MB.Application.pdb
+D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application\obj\Debug\net8.0\ref\MB.Application.dll
