@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{AF809165-DC0C-4ED2-B1D6-DF1840173461}|ServiceHost\\ServiceHost.csproj|c:\\users\\lenovo\\source\\repos\\blogwebsite\\masterblogger\\servicehost\\controllers\\administrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF809165-DC0C-4ED2-B1D6-DF1840173461}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\controllers\\administrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF809165-DC0C-4ED2-B1D6-DF1840173461}|ServiceHost\\ServiceHost.csproj|c:\\users\\lenovo\\source\\repos\\blogwebsite\\masterblogger\\servicehost\\views\\administration\\createnewarticlecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AF809165-DC0C-4ED2-B1D6-DF1840173461}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\views\\administration\\createnewarticlecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdministrationController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\ServiceHost\\Controllers\\AdministrationController.cs",
-              "RelativeDocumentMoniker": "ServiceHost\\Controllers\\AdministrationController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\ServiceHost\\Controllers\\AdministrationController.cs",
-              "RelativeToolTip": "ServiceHost\\Controllers\\AdministrationController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAABkAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T17:36:55.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateNewArticleCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\ServiceHost\\Views\\Administration\\CreateNewArticleCategory.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Views\\Administration\\CreateNewArticleCategory.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\ServiceHost\\Views\\Administration\\CreateNewArticleCategory.cshtml*",
-              "RelativeToolTip": "ServiceHost\\Views\\Administration\\CreateNewArticleCategory.cshtml*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-26T17:32:17.968Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
