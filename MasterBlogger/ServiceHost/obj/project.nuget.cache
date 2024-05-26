@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GYIuyqY3bsiZSwkj0kenHQ2bEVjnfdrnavbmHjl8DEi5kUfdL3LxPpSdEQTufuTzzHa6gbqsIOBMVOv1P0Lpbg==",
+  "dgSpecHash": "Z7bpOWwIPerJqKGrC+KEZpKk78SiW3Grs7P4DYxHvNBE1kHMdmDsXIxO6QByuhjnZtCrZXJ815QDD/KFId4E4w==",
   "success": true,
-  "projectFilePath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\ServiceHost\\ServiceHost.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\ServiceHost\\ServiceHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

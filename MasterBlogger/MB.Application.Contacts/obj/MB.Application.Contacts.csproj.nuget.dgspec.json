@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj": {}
   },
   "projects": {
-    "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj",
         "projectName": "MB.Application.Contacts",
-        "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

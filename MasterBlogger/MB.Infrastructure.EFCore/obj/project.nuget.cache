@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wnF0pd8s6i76OBheNY9ina004fO45Lyre5/squarDax5wRspPlH2bPAc7jHrBhQ3QGq1dG8hl4zV50pMePxOqA==",
+  "dgSpecHash": "5KmDV+4YfYU6AHAZnYJl6KN+V/Xr9zcTNOCZBhG2H+pAI1ldonu93AxitMKbqO1fGXkARminSrbUSX62kMWWxQ==",
   "success": true,
-  "projectFilePath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

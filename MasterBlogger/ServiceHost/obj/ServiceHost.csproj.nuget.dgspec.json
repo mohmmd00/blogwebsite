@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\ServiceHost\\ServiceHost.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\ServiceHost\\ServiceHost.csproj": {}
   },
   "projects": {
-    "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj",
         "projectName": "MB.Application.Contacts",
-        "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application\\MB.Application.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application\\MB.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application\\MB.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application\\MB.Application.csproj",
         "projectName": "MB.Application",
-        "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application\\MB.Application.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application\\MB.Application.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,11 +98,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj": {
-                "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj"
               },
-              "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Domain\\MB.Domain.csproj": {
-                "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Domain\\MB.Domain.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Domain\\MB.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Domain\\MB.Domain.csproj"
               }
             }
           }
@@ -141,14 +141,14 @@
         }
       }
     },
-    "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Domain\\MB.Domain.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Domain\\MB.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Domain\\MB.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Domain\\MB.Domain.csproj",
         "projectName": "MB.Domain",
-        "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Domain\\MB.Domain.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Domain\\MB.Domain.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -170,8 +170,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj": {
-                "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj"
               }
             }
           }
@@ -210,14 +210,14 @@
         }
       }
     },
-    "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
         "projectName": "MB.Infrastructure.EFCore",
-        "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure.EFCore\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -239,8 +239,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Domain\\MB.Domain.csproj": {
-                "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Domain\\MB.Domain.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Domain\\MB.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Domain\\MB.Domain.csproj"
               }
             }
           }
@@ -297,14 +297,14 @@
         }
       }
     },
-    "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure\\MB.Infrastructure.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure\\MB.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure\\MB.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure\\MB.Infrastructure.csproj",
         "projectName": "MB.Infrastructure",
-        "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure\\MB.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure\\MB.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -326,14 +326,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj": {
-                "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj"
               },
-              "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application\\MB.Application.csproj": {
-                "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application\\MB.Application.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application\\MB.Application.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application\\MB.Application.csproj"
               },
-              "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {
-                "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj"
               }
             }
           }
@@ -378,14 +378,14 @@
         }
       }
     },
-    "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\ServiceHost\\ServiceHost.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\ServiceHost\\ServiceHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\ServiceHost\\ServiceHost.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\ServiceHost\\ServiceHost.csproj",
         "projectName": "ServiceHost",
-        "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\ServiceHost\\ServiceHost.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\ServiceHost\\ServiceHost.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\ServiceHost\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\ServiceHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -407,8 +407,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure\\MB.Infrastructure.csproj": {
-                "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure\\MB.Infrastructure.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure\\MB.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure\\MB.Infrastructure.csproj"
               }
             }
           }

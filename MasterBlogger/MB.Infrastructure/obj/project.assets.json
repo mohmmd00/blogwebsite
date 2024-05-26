@@ -2828,11 +2828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure\\MB.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure\\MB.Infrastructure.csproj",
       "projectName": "MB.Infrastructure",
-      "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure\\MB.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure\\MB.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2854,14 +2854,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj": {
-              "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application.Contacts\\MB.Application.Contacts.csproj"
             },
-            "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application\\MB.Application.csproj": {
-              "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Application\\MB.Application.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application\\MB.Application.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Application\\MB.Application.csproj"
             },
-            "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {
-              "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj"
             }
           }
         }

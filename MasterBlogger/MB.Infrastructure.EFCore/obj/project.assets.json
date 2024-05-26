@@ -4146,11 +4146,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
       "projectName": "MB.Infrastructure.EFCore",
-      "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Infrastructure.EFCore\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Infrastructure.EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4172,8 +4172,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Domain\\MB.Domain.csproj": {
-              "projectPath": "D:\\MohammadHosein's\\Programing\\Back End\\MasterBlogger\\MB.Domain\\MB.Domain.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Domain\\MB.Domain.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\blogwebsite\\MasterBlogger\\MB.Domain\\MB.Domain.csproj"
             }
           }
         }
