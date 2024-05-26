@@ -9,3 +9,15 @@ D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application.Contacts\ob
 D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application.Contacts\obj\Debug\net8.0\refint\MB.Application.Contacts.dll
 D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application.Contacts\obj\Debug\net8.0\MB.Application.Contacts.pdb
 D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Application.Contacts\obj\Debug\net8.0\ref\MB.Application.Contacts.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Application.Contacts\bin\Debug\net8.0\MB.Application.Contacts.deps.json
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Application.Contacts\bin\Debug\net8.0\MB.Application.Contacts.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Application.Contacts\bin\Debug\net8.0\MB.Application.Contacts.pdb
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Application.Contacts\obj\Debug\net8.0\MB.Application.Contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Application.Contacts\obj\Debug\net8.0\MB.Application.Contacts.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Application.Contacts\obj\Debug\net8.0\MB.Application.Contacts.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Application.Contacts\obj\Debug\net8.0\MB.Application.Contacts.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Application.Contacts\obj\Debug\net8.0\MB.Application.Contacts.sourcelink.json
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Application.Contacts\obj\Debug\net8.0\MB.Application.Contacts.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Application.Contacts\obj\Debug\net8.0\refint\MB.Application.Contacts.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Application.Contacts\obj\Debug\net8.0\MB.Application.Contacts.pdb
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Application.Contacts\obj\Debug\net8.0\ref\MB.Application.Contacts.dll

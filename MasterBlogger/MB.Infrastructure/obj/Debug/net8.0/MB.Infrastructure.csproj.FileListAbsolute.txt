@@ -19,3 +19,25 @@ D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Infrastructure\obj\Debu
 D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Infrastructure\obj\Debug\net8.0\refint\MB.Infrastructure.dll
 D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Infrastructure\obj\Debug\net8.0\MB.Infrastructure.pdb
 D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Infrastructure\obj\Debug\net8.0\ref\MB.Infrastructure.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\bin\Debug\net8.0\MB.Infrastructure.deps.json
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\bin\Debug\net8.0\MB.Infrastructure.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\bin\Debug\net8.0\MB.Infrastructure.pdb
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\bin\Debug\net8.0\MB.Application.Contacts.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\bin\Debug\net8.0\MB.Application.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\bin\Debug\net8.0\MB.Domain.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\bin\Debug\net8.0\MB.Infrastructure.EFCore.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\bin\Debug\net8.0\MB.Application.Contacts.pdb
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\bin\Debug\net8.0\MB.Application.pdb
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\bin\Debug\net8.0\MB.Infrastructure.EFCore.pdb
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\bin\Debug\net8.0\MB.Domain.pdb
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\obj\Debug\net8.0\MB.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\obj\Debug\net8.0\MB.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\obj\Debug\net8.0\MB.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\obj\Debug\net8.0\MB.Infrastructure.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\obj\Debug\net8.0\MB.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\obj\Debug\net8.0\MB.Infrastructure.sourcelink.json
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\obj\Debug\net8.0\MB.Infra.C30A80ED.Up2Date
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\obj\Debug\net8.0\MB.Infrastructure.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\obj\Debug\net8.0\refint\MB.Infrastructure.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\obj\Debug\net8.0\MB.Infrastructure.pdb
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Infrastructure\obj\Debug\net8.0\ref\MB.Infrastructure.dll

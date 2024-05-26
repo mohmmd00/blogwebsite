@@ -13,3 +13,19 @@ D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\bin\Debug\net8.0
 D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Application.Contacts.pdb
 D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.csproj.AssemblyReference.cache
 D:\MohammadHosein's\Programing\Back End\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.csproj.Up2Date
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Domain.deps.json
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Domain.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Domain.pdb
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Application.Contacts.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\bin\Debug\net8.0\MB.Application.Contacts.pdb
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.sourcelink.json
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.csproj.Up2Date
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\obj\Debug\net8.0\refint\MB.Domain.dll
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\obj\Debug\net8.0\MB.Domain.pdb
+C:\Users\Lenovo\source\repos\blogwebsite\MasterBlogger\MB.Domain\obj\Debug\net8.0\ref\MB.Domain.dll
